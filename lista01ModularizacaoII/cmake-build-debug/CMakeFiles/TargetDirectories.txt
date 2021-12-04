@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/lista01ModularizacaoII/cmake-build-debug/CMakeFiles/lista01ModularizacaoII.dir
+C:/Users/laion/CLionProjects/lista01ModularizacaoII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/lista01ModularizacaoII/cmake-build-debug/CMakeFiles/rebuild_cache.dir

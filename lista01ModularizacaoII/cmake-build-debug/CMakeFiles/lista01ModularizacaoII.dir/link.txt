@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\lista01ModularizacaoII.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\lista01ModularizacaoII.dir/objects.a @CMakeFiles\lista01ModularizacaoII.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\lista01ModularizacaoII.dir/objects.a -Wl,--no-whole-archive  -o lista01ModularizacaoII.exe -Wl,--out-implib,liblista01ModularizacaoII.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lista01ModularizacaoII.dir\linklibs.rsp
