@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/main.cpp
+testQuestionnaires.h
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/testQuestionnaires.h
+
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/questionnaires.cpp
+questionnaires.h
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/questionnaires.h
+
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/questionnaires.h
+ctime
+-
+string
+-
+iostream
+-
+
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/testQuestionnaires.cpp
+testQuestionnaires.h
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/testQuestionnaires.h
+
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/testQuestionnaires.h
+questionnaires.h
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/questionnaires.h
+

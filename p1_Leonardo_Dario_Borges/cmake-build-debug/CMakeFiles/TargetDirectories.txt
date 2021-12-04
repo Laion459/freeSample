@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/cmake-build-debug/CMakeFiles/p1_Leonardo_Dario_Borges.dir
+C:/Users/laion/CLionProjects/p1_Leonardo_Dario_Borges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
