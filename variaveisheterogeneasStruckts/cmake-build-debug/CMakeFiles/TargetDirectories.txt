@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/cmake-build-debug/CMakeFiles/variaveisheterogeneasStruckts.dir
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/matrix.h
+cstring
+-
+iostream
+-
+iomanip
+-
+testMatrix.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testMatrix.h
+testPolygon.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testPolygon.h
+
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/polygon.h
+
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testMatrix.h
+matrix.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/matrix.h
+
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testPolygon.cpp
+testPolygon.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testPolygon.h
+
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/testPolygon.h
+matrix.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/matrix.h
+polygon.h
+C:/Users/laion/CLionProjects/variaveisheterogeneasStruckts/polygon.h
+
