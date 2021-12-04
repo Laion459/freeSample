@@ -1,0 +1,81 @@
+dom jun 20 14:49:42 2021: Starting Cisco Packet Tracer 8.0.0.0212
+dom jun 20 14:49:42 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom jun 20 14:49:42 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom jun 20 14:49:48 2021: Script Module starting: 
+dom jun 20 14:49:51 2021: CPtmpServer started at port 39000
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.Marvel
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.PcSoftware
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+dom jun 20 14:49:51 2021: Script Module starting: net.netacad.cisco.resource
+dom jun 20 14:49:51 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom jun 20 14:49:52 2021: CPtmpServer started at port 38000
+dom jun 20 14:56:50 2021: Saving options...
+dom jun 20 14:56:50 2021: Options saved.
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:02 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom jun 20 14:57:04 2021: Changed device name:  to PC0
+dom jun 20 14:57:04 2021: Created device: PC0 model: PC-PT
+dom jun 20 14:57:08 2021: Changed device name:  to PC1
+dom jun 20 14:57:08 2021: Created device: PC1 model: PC-PT
+dom jun 20 14:57:11 2021: Changed device name:  to PC2
+dom jun 20 14:57:11 2021: Created device: PC2 model: PC-PT
+dom jun 20 14:57:13 2021: Changed device name:  to PC3
+dom jun 20 14:57:13 2021: Created device: PC3 model: PC-PT
+dom jun 20 14:57:47 2021: Changed device name:  to Switch0
+dom jun 20 14:57:47 2021: Changed device name:  to Power Distribution Device0
+dom jun 20 14:57:47 2021: Created device: Power Distribution Device0 model: Power Distribution Device
+dom jun 20 14:57:47 2021: Created device: Switch0 model: 2960-24TT
+dom jun 20 14:58:27 2021: Link created: Switch0 FastEthernet0/1 to PC0 FastEthernet0, 8100
+dom jun 20 14:58:31 2021: Link created: Switch0 FastEthernet0/2 to PC1 FastEthernet0, 8100
+dom jun 20 14:58:37 2021: Link created: Switch0 FastEthernet0/3 to PC2 FastEthernet0, 8100
+dom jun 20 14:58:41 2021: Link created: Switch0 FastEthernet0/4 to PC3 FastEthernet0, 8100
+dom jun 20 15:01:07 2021: Changed device name:  to Server0
+dom jun 20 15:01:07 2021: Created device: Server0 model: Server-PT
+dom jun 20 15:03:36 2021: Link created: Server0 FastEthernet0 to Switch0 FastEthernet0/5, 8100
+dom jun 20 15:24:18 2021: Saving to file: Z:/LEONARDO/FACU/redes de computadores/roteiro DNS Leonardo Borges.pkt
+dom jun 20 15:24:18 2021: File saved successfully.
+dom jun 20 15:24:18 2021: Saving options...
+dom jun 20 15:24:18 2021: Options saved.
+dom jun 20 18:14:44 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 18:31:49 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 18:33:50 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 18:34:43 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 18:48:43 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 18:49:13 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+dom jun 20 19:13:22 2021: Saving to file: Z:/LEONARDO/FACU/redes de computadores/roteiro DNS HTTP DHCP Pronto Leonardo Borges.pkt
+dom jun 20 19:13:23 2021: File saved successfully.
+dom jun 20 19:13:23 2021: Saving options...
+dom jun 20 19:13:23 2021: Options saved.
+dom jun 20 19:44:09 2021: Saving to file: Z:/LEONARDO/FACU/redes de computadores/roteiro DNS HTTP DHCP Pronto Leonardo Borges.pkt
+dom jun 20 19:44:09 2021: Saving options...
+dom jun 20 19:44:09 2021: Options saved.
+dom jun 20 19:44:09 2021: File saved successfully.
+dom jun 20 19:44:18 2021: Saving to file: Z:/LEONARDO/FACU/redes de computadores/roteiro DNS HTTP DHCP Pronto Leonardo Borges.pkt
+dom jun 20 19:44:18 2021: Saving options...
+dom jun 20 19:44:18 2021: Options saved.
+dom jun 20 19:44:18 2021: File saved successfully.
+dom jun 20 19:44:23 2021: Script Module stopping: File
+dom jun 20 19:44:23 2021: Exiting
+dom jun 20 19:44:23 2021: Saving options...
+dom jun 20 19:44:23 2021: Options saved.
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.resource
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.PTINTERNAL
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.PcSoftware
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.Marvel
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.clearTerminalAgent
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.ActivitySequencer
+dom jun 20 19:44:23 2021: Script Module stopping: net.netacad.cisco.ActivitySequenceEditor
+dom jun 20 19:44:24 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+dom jun 20 19:44:24 2021: CPtmpServer stopped.
+dom jun 20 19:44:24 2021: CPtmpServer stopped.
