@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/main.cpp
+testQuestionnaire.h
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/testQuestionnaire.h
+
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/questionnaireManager.cpp
+questionnaireManager.h
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/questionnaireManager.h
+
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/questionnaireManager.h
+iostream
+-
+string
+-
+
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/testQuestionnaire.cpp
+testQuestionnaire.h
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/testQuestionnaire.h
+
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/testQuestionnaire.h
+questionnaireManager.h
+C:/Users/laion/CLionProjects/BONUS_Leonardo_Dario_Borges/questionnaireManager.h
+
