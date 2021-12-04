@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/MASTERMIND2.0/allTest.h
+game.h
+C:/Users/laion/CLionProjects/MASTERMIND2.0/game.h
+
+C:/Users/laion/CLionProjects/MASTERMIND2.0/game.h
+testGame.h
+C:/Users/laion/CLionProjects/MASTERMIND2.0/testGame.h
+allTest.h
+C:/Users/laion/CLionProjects/MASTERMIND2.0/allTest.h
+iostream
+-
+string
+-
+ctime
+-
+
+C:/Users/laion/CLionProjects/MASTERMIND2.0/testGame.cpp
+testGame.h
+C:/Users/laion/CLionProjects/MASTERMIND2.0/testGame.h
+
+C:/Users/laion/CLionProjects/MASTERMIND2.0/testGame.h
+game.h
+C:/Users/laion/CLionProjects/MASTERMIND2.0/game.h
+
