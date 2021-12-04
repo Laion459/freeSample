@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/cmake-build-debug/CMakeFiles/listaExerciciosAlocacaoDinamicaDeMemoria04.dir
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

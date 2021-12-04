@@ -1,0 +1,3 @@
+C:\Users\laion\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\strucktsPreProva.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\strucktsPreProva.dir/objects.a @CMakeFiles\strucktsPreProva.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\strucktsPreProva.dir/objects.a -Wl,--no-whole-archive  -o strucktsPreProva.exe -Wl,--out-implib,libstrucktsPreProva.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\strucktsPreProva.dir\linklibs.rsp

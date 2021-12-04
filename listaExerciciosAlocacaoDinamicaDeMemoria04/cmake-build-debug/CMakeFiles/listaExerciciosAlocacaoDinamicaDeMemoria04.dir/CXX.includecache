@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/exercicios04.cpp
+exercicios04.h
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/exercicios04.h
+
+C:/Users/laion/CLionProjects/listaExerciciosAlocacaoDinamicaDeMemoria04/exercicios04.h
+iostream
+-
+

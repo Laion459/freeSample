@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/strucktsPreProva/student.h
+testStudent.h
+C:/Users/laion/CLionProjects/strucktsPreProva/testStudent.h
+iostream
+-
+string
+-
+ctime
+-
+
+C:/Users/laion/CLionProjects/strucktsPreProva/testStudent.cpp
+testStudent.h
+C:/Users/laion/CLionProjects/strucktsPreProva/testStudent.h
+
+C:/Users/laion/CLionProjects/strucktsPreProva/testStudent.h
+student.h
+C:/Users/laion/CLionProjects/strucktsPreProva/student.h
+
