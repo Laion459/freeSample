@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/mallocCallocRealloc.h
+testsMallocCallocRealloc.h
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/testsMallocCallocRealloc.h
+iostream
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/iostream
+
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/testsMallocCallocRealloc.cpp
+mallocCallocRealloc.h
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/mallocCallocRealloc.h
+
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/testsMallocCallocRealloc.h
+testsMallocCallocRealloc.h
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula02/testsMallocCallocRealloc.h
+

@@ -1,0 +1,3 @@
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/cmake-build-debug/CMakeFiles/alocacaoDinamicaAula01.dir
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

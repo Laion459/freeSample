@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/pointers.cpp
+iostream
+-
+pointers.h
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/pointers.h
+cstdlib
+-
+
+C:/Users/laion/CLionProjects/alocacaoDinamicaAula01/pointers.h
+
