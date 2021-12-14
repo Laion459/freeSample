@@ -1,0 +1,1 @@
+Tratamento{data_inicio=Mon Dec 13 17:30:44 BRT 2021, data_final=Mon Dec 13 17:30:44 BRT 2021, tratamento_descricao='dor de dente, dipirona.'}Tratamento{data_inicio=Mon Dec 13 17:31:41 BRT 2021, data_final=Mon Dec 13 17:31:41 BRT 2021, tratamento_descricao='dor de dente, dipirona.'}

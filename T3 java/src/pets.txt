@@ -1,0 +1,1 @@
+Animal{nome_animal='Spyke', idade_animal=2, sexo_animal=10}Animal{nome_animal='Spyke', idade_animal=2, sexo_animal=10}Animal{nome_animal='Spyke', idade_animal=2, sexo_animal=10}Animal{nome_animal='Spyke', idade_animal=2, sexo_animal=10}
